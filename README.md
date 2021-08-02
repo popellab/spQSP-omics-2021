@@ -1,5 +1,5 @@
 # spQSP-IO
-spatial quantitative systems biology for immuno-oncology
+User manual spatial quantitative systems biology for immuno-oncology
 
 ## Ubuntu Operating System Configuration (Only required for Windows User)
 
